@@ -1,5 +1,5 @@
 # Flutter App by Amit
-Various Flutter App 📱 built using Dart in Android Studio.
+Various Flutter App 📱 built using Dart in Android Studio .
 
 
 ## ⚙️ Technology Used
