@@ -1,4 +1,4 @@
-# Flutter App by Amit
+# Flutter App Dev by Amit
 Various Flutter App 📱 built using Dart in Android Studio .
 
 
