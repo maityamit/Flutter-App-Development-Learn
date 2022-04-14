@@ -27,4 +27,9 @@
 <h1 align="center">🙍‍♂️ Contact Me</h1>
   
 
-<h1 align="center"><a href="https://github.com/maityamit"><img src="https://github.com/maityamit/Flutter-App-Development-Learn/blob/master/Images/github.png" width="25%"/></a></h1> <h1 align="center"><img src="https://github.com/maityamit/Flutter-App-Development-Learn/blob/master/Images/gmail.png" width="25%"/></h1><h1 align="center"><img src="https://github.com/maityamit/Flutter-App-Development-Learn/blob/master/Images/linkedin.png" width="25%"/></h1> 
+  <a href="https://linkedin.com/in/maityamit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansuman-behera-7b00b61b6" height="30" width="40" /></a>
+  <a href="https://github.com/maityamit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_ansuman_behera_/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13825516/amit-maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="_ansuman_behera_/" height="30" width="40" /></a>
+ <a href="https://instagram.com/amit_maity_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ansuman_behera_/" height="30" width="40" /></a>
+  <a href="https://twitter.com/AmitMai40525308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ansuman_behera_/" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/maity.amit.2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="_ansuman_behera_/" height="30" width="40" /></a>
