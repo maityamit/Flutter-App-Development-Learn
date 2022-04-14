@@ -19,7 +19,7 @@
 |05|06-A|06-B|
 | ![Imgur](Images/5.png) | ![Imgur](Images/6-a.png) | ![Imgur](Images/6-b.png) | 
 |07|08|09|
-| ![Imgur](Images/7.png) | ![Imgur](Images/8.png) |  | 
+| ![Imgur](Images/7.png) | ![Imgur](Images/8.png) | ![Imgur](Images/9.png) | 
   
   
   <br>
