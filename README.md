@@ -18,7 +18,7 @@
 | ![Imgur](Images/3-b.png) | ![Imgur](Images/4-a.png) | ![Imgur](Images/4-b.png) | 
 |05|06-A|06-B|
 | ![Imgur](Images/5.png) | ![Imgur](Images/6-a.png) | ![Imgur](Images/6-b.png) | 
-|07|04-A|04-B|
+|07|08|09|
 | ![Imgur](Images/7.png) |  |  | 
   
   
