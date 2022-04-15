@@ -22,8 +22,10 @@
 | ![Imgur](Images/7.png) | ![Imgur](Images/8.png) | ![Imgur](Images/9.png) | 
 |10|11|12|
 | ![Imgur](Images/10.png) | ![Imgur](Images/11.gif) | ![Imgur](Images/12.png) | 
-|13|14|15|
-| ![Imgur](Images/13.png) | ![Imgur](Images/14.png) | ![Imgur](Images/15.png) | 
+|13|14|15-a|
+| ![Imgur](Images/13.png) | ![Imgur](Images/14.png) | ![Imgur](Images/15-a.png) | 
+|15-b|16|17|
+| ![Imgur](Images/15-b.png) | ![Imgur](Images/16.png) | ![Imgur](Images/17.png) | 
   
   
   <br>
