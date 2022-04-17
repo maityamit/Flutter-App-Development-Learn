@@ -26,6 +26,8 @@
 | ![Imgur](Images/13.png) | ![Imgur](Images/14.png) | ![Imgur](Images/15-a.png) | 
 |15-b|16|17|
 | ![Imgur](Images/15-b.png) | ![Imgur](Images/16.png) | ![Imgur](Images/17.png) | 
+|18|19|20|
+| ![Imgur](Images/18.png) | ![Imgur](Images/19.png) | ![Imgur](Images/20.png) | 
   
   
   <br>
